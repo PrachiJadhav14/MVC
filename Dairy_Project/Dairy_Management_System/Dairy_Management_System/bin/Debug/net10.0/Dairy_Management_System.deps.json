@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Dairy_Management_System/1.0.0": {
+        "runtime": {
+          "Dairy_Management_System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dairy_Management_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

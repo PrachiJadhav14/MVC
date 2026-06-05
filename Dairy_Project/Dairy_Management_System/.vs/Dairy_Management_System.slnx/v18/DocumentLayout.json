@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\Dairy_Project\\Dairy_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3C805-AA52-A309-AF9B-ADF185800E33}|Dairy_Management_System\\Dairy_Management_System.csproj|d:\\mvc\\dairy_project\\dairy_management_system\\dairy_management_system\\view\\milkview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E3C805-AA52-A309-AF9B-ADF185800E33}|Dairy_Management_System\\Dairy_Management_System.csproj|solutionrelative:dairy_management_system\\view\\milkview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3C805-AA52-A309-AF9B-ADF185800E33}|Dairy_Management_System\\Dairy_Management_System.csproj|d:\\mvc\\dairy_project\\dairy_management_system\\dairy_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E3C805-AA52-A309-AF9B-ADF185800E33}|Dairy_Management_System\\Dairy_Management_System.csproj|solutionrelative:dairy_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3C805-AA52-A309-AF9B-ADF185800E33}|Dairy_Management_System\\Dairy_Management_System.csproj|d:\\mvc\\dairy_project\\dairy_management_system\\dairy_management_system\\controller\\milkcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E3C805-AA52-A309-AF9B-ADF185800E33}|Dairy_Management_System\\Dairy_Management_System.csproj|solutionrelative:dairy_management_system\\controller\\milkcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MilkView.cs",
+              "DocumentMoniker": "D:\\MVC\\Dairy_Project\\Dairy_Management_System\\Dairy_Management_System\\View\\MilkView.cs",
+              "RelativeDocumentMoniker": "Dairy_Management_System\\View\\MilkView.cs",
+              "ToolTip": "D:\\MVC\\Dairy_Project\\Dairy_Management_System\\Dairy_Management_System\\View\\MilkView.cs",
+              "RelativeToolTip": "Dairy_Management_System\\View\\MilkView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T11:47:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVC\\Dairy_Project\\Dairy_Management_System\\Dairy_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Dairy_Management_System\\Program.cs",
+              "ToolTip": "D:\\MVC\\Dairy_Project\\Dairy_Management_System\\Dairy_Management_System\\Program.cs",
+              "RelativeToolTip": "Dairy_Management_System\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:10:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MilkContoller.cs",
+              "DocumentMoniker": "D:\\MVC\\Dairy_Project\\Dairy_Management_System\\Dairy_Management_System\\Controller\\MilkContoller.cs",
+              "RelativeDocumentMoniker": "Dairy_Management_System\\Controller\\MilkContoller.cs",
+              "ToolTip": "D:\\MVC\\Dairy_Project\\Dairy_Management_System\\Dairy_Management_System\\Controller\\MilkContoller.cs",
+              "RelativeToolTip": "Dairy_Management_System\\Controller\\MilkContoller.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAcwLIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:01:53.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
